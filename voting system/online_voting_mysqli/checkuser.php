@@ -10,5 +10,5 @@ if(mysqli_num_rows($result)){
     echo"email already Registerd Please Try Another";
 }else{
     echo"";
-}
+}dshfjhsdfjkhasdfjkhasjkdhfiqhwuweh dshj djs
 ?>
